@@ -2,7 +2,6 @@
 
 ## INTRODUCTION ##
 
-### CLARIFICATIONS ###
 Before starting the practice, it is necessary to set the static ip addresses of the servers and install the bind9 service on both of them.
 
 The objective of this practice is to create two machines that will act as DNS servers of an imaginary domain called "sistema.sol". We will use **Vagrant** to automate the task of creating and configuring the machines. 
